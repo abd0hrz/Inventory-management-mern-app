@@ -1,5 +1,5 @@
-# Inventory management mern Stack application with mongoDB, Express, React and NodeJS
-
+# Inventory management 
+A MERN stack application i built with mongoDB, Express, React and NodeJS.
 
 ## Features
 - API endpoints with Express
