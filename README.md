@@ -23,28 +23,6 @@ A MERN stack application i built with mongoDB, Express, React and NodeJS.
 
 <!-- Add other features -->
 
-## Usage
-
-- `npm install`
-
-- Go to the `sample.env` file and follow the instructions there. Run `npm run server` to start the Express API, run `npm run client` to run the React Frontend and `npm run dev` to run both of them concurrently.
-
-## Todo
-
-- Frontend Responsiveness: I used just styled components. So, I'll make out time to ensure the app is fully responsive soon.
-  >update: done
-
-- Display weekly and monthly Sales and purchases on the dashboard along with total profit made during the period.
-
-- Search
-
-- Users should be able to edit their details(change password, name, email, username, company): There's already endpoints for this on the BE but they've not been implemented on the FE
-
-- Remove some lorem ipsums that are still on the landing page.
-
-- Deploy to Heroku or Zeit Now
-  >update: done
-
 ## API docs
 
 ### Routes
